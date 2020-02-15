@@ -1,0 +1,6 @@
+#ifndef LOGGER_WRAPPERS_LIBRARY_H
+#define LOGGER_WRAPPERS_LIBRARY_H
+
+void hello();
+
+#endif //LOGGER_WRAPPERS_LIBRARY_H
